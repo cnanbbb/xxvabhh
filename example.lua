@@ -1,6 +1,6 @@
 -- U CAN USE TS IN UR ROBLOX GAME --
 
-local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/4lpaca-pin/NeverLose/refs/heads/main/source.luau"))() --require(script:WaitForChild('ModuleScript'));
+local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/cnanbbb/xxvabhh/refs/heads/main/source.lua"))() --require(script:WaitForChild('ModuleScript'));
 
 local Notification = NeverLose:CreateNotification();
 local Logging = NeverLose:CreateLogger();
